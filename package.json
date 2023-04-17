@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "yarn": "^1.22.19"
+  },
+  "name": "djs-v14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
